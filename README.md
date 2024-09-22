@@ -26,6 +26,7 @@ This project automates the supplier evaluation process using AHP by:
 
 ## Results
 After running the script, you’ll see supplier rankings based on AHP analysis, along with data visualizations to better understand the results.
+
 ![image](https://github.com/user-attachments/assets/85b07bf7-28ae-4a8b-92c5-09a61378d38e)
 
 ![image](https://github.com/user-attachments/assets/a4b8662f-9080-4287-a003-69862870a4ad)
